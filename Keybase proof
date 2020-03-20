@@ -1,0 +1,69 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am zoemeckbach on github.
+  * I am zoemc (https://keybase.io/zoemc) on keybase.
+  * I have a public key ASBI8e5Rq8Qv3RdKBWK_BNFcWLZkqGseFIRSjL_psUErFwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012048f1ee51abc42fdd174a0562bf04d15c58b664a86b1e1484528cbfe9b1412b170a",
+      "host": "keybase.io",
+      "kid": "012048f1ee51abc42fdd174a0562bf04d15c58b664a86b1e1484528cbfe9b1412b170a",
+      "uid": "7dbcab1917e8f6768ee9a7ade2441d19",
+      "username": "zoemc"
+    },
+    "merkle_root": {
+      "ctime": 1584669482,
+      "hash": "05856fede969938fbf25268dd4a355126a01192e8dfedae6480d23172924a0751c599469376e4f037caacbbdea221d5c964d3fe053b171c82f5852764c1253a4",
+      "hash_meta": "fdb5ebaf5a83a75d74516fd28ce03df8ec48a7d9f51baac3b867d8d353163545",
+      "seqno": 15514727
+    },
+    "service": {
+      "entropy": "AZMqMA12BokryLadK12Cu4+M",
+      "name": "github",
+      "username": "zoemeckbach"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1584669488,
+  "expire_in": 504576000,
+  "prev": "c18507dc5b07347e5c2b6b92fd8767d6a492d339ab4c0a025a0c5ab112ebb6ed",
+  "seqno": 9,
+  "tag": "signature"
+}
+```
+
+with the key [ASBI8e5Rq8Qv3RdKBWK_BNFcWLZkqGseFIRSjL_psUErFwo](https://keybase.io/zoemc), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSPHuUavEL90XSgVivwTRXFi2ZKhrHhSEUoy/6bFBKxcKp3BheWxvYWTESpcCCcQgwYUH3FsHNH5cK2uS/Ydn1qSS0zmrTAoCWgxasRLrtu3EIIVdCSo0VXoNYpaIShdU+7l8aB2w1znz37WlXtIm+AfJAgHCo3NpZ8RACxr8cPLJPWjkzE/nkyRfp9m8mGjSIiEkLnv3OESfp/ErW1m3sTV+uzYt+7mp8ZMEiwseRbBB0lQ6IM2txaGpA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKmHQq5H60XJ3FSdBNFWET2XopNVhepPHi8sHwFUnyw2o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/zoemc
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id zoemc
+```
+
+                
